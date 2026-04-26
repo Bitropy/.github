@@ -59,7 +59,7 @@ More open-source releases planned — including OPA policy libraries for AI guar
 
 Bitropy is built by a team that has worked together for over 20 years across Allegro, Nordcloud (IBM), and Autopay — combining deep experience in enterprise software, cloud platforms, AI engineering, security, and compliance.
 
-- **Marcin Mazurek** — Co-founder, CEO · [LinkedIn](https://www.linkedin.com/in/marcinmazurek/)
+- **Marcin Mazurek** — Co-founder, CEO · [@mazek](https://github.com/mazek) · [LinkedIn](https://www.linkedin.com/in/marcinmazurek/)
 - **Darek Dwornikowski** — Co-founder, CTO · [@tdi](https://github.com/tdi) · [LinkedIn](https://www.linkedin.com/in/dariuszdwornikowski/)
 
 ## Connect
