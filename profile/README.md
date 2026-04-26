@@ -48,13 +48,6 @@ Full data sovereignty. Open standards. No vendor lock-in.
 
 EU AI Act · GDPR · Data Act · DORA · NIS2 · SOC 2 · ISO 27001 · ISO/IEC 42001
 
-## Public Repositories
-
-- [**ccagents**](https://github.com/Bitropy/ccagents) — CLI for managing Claude Code agents in local projects. Rust, MIT.
-- [**website**](https://github.com/Bitropy/website) — bitropy.io source. Astro.
-
-More open-source releases planned — including OPA policy libraries for AI guardrails and reference patterns for MCP gateway deployment.
-
 ## Founding Team
 
 Bitropy is built by a team that has worked together for over 20 years across Allegro, Nordcloud (IBM), and Autopay — combining deep experience in enterprise software, cloud platforms, AI engineering, security, and compliance.
