@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.bitropy.io/Bitropy-w.png" alt="Bitropy" width="220" />
 
-  <h3>The Enterprise LLM / MCP Gateway and AI Governance Platform</h3>
+  <h3>Bitropy is the missing control layer for AI in the enterprise. </h3>
 
   <p>
     <a href="https://www.bitropy.io">Website</a> ·
@@ -13,7 +13,7 @@
 
 ---
 
-**Bitropy is the enterprise MCP gateway and AI governance platform — Kubernetes-native, deployable on-premises, in VPC, or air-gapped — for regulated companies adopting LLMs and AI agents under EU AI Act, GDPR, DORA, and SOC 2.**
+**Bitropy is the enterprise LLM / MCP gateway and AI governance platform — Kubernetes-native, deployable on-premises, in VPC, or air-gapped — for regulated companies adopting LLMs and AI agents under EU AI Act, GDPR, DORA, and SOC 2.**
 
 We sit between AI systems (LLMs, agents, copilots) and enterprise data and tools, providing a single secure control layer where authentication, authorization, observability, policy enforcement, and cost management are handled by design — not bolted on per integration.
 
@@ -48,7 +48,7 @@ Full data sovereignty. Open standards. No vendor lock-in.
 
 EU AI Act · GDPR · Data Act · DORA · NIS2 · SOC 2 · ISO 27001 · ISO/IEC 42001
 
-## Repositories
+## Public Repositories
 
 - [**ccagents**](https://github.com/Bitropy/ccagents) — CLI for managing Claude Code agents in local projects. Rust, MIT.
 - [**website**](https://github.com/Bitropy/website) — bitropy.io source. Astro.
